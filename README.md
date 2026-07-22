@@ -9,8 +9,7 @@ Software developer building web, mobile, and AI-powered projects.
 - [Game Development](https://github.com/yashay16s-oss/Game-Development) — Night Forest Tales, a Phaser/React adventure game with an AI hint chatbot
 - [voice-buddy](https://github.com/yashay16s-oss/voice-buddy) — Real-time voice conversation with an AI coding assistant, via OpenAI's Realtime API
 - [code-explainer](https://github.com/yashay16s-oss/code-explainer) — Kestrel, a Discord bot that reviews code and diagnoses error screenshots
-
-**Also:** [agent-framework](https://github.com/yashay16s-oss/agent-framework) — a fork of [loopedautomation/agent-framework](https://github.com/loopedautomation/agent-framework) that I use as the runtime for the projects above.
+- [agent-framework](https://github.com/yashay16s-oss/agent-framework) — a fork of [loopedautomation/agent-framework](https://github.com/loopedautomation/agent-framework) that I use as the runtime for the projects above
 
 ## GitHub Stats
 
